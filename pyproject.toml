@@ -1,9 +1,9 @@
 [project]
 name = "service_booking_management"
 authors = [
-    { name = "Leelasai@gmail.com", email = "Leelasai@gmail.com "}
+    { name = "Leelasai", email = "leelasai2023@gmail.com"}
 ]
-description = "A custom ERPNext app for managing wellness service bookings, client notifications, and reports."
+description = "Custom ERPNext module for managing wellness service bookings."
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

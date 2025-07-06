@@ -1,6 +1,6 @@
 ### Service Booking Management
 
-A custom ERPNext app for managing wellness service bookings, client notifications, and reports.
+Custom ERPNext module for managing wellness service bookings.
 
 ### Installation
 

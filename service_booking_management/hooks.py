@@ -1,8 +1,8 @@
 app_name = "service_booking_management"
 app_title = "Service Booking Management"
-app_publisher = "Leelasai@gmail.com"
-app_description = "A custom ERPNext app for managing wellness service bookings, client notifications, and reports."
-app_email = "Leelasai@gmail.com "
+app_publisher = "Leelasai"
+app_description = "Custom ERPNext module for managing wellness service bookings."
+app_email = "leelasai2023@gmail.com"
 app_license = "mit"
 
 # Apps
